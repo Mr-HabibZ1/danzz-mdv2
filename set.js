@@ -6,25 +6,25 @@ global.APIs = {
 }
 
 global.APIKeys = {
-	'https://danzzapi.xyz': 'YOUR APIKEY',
+	'927b0k3hp7o2': 'YOUR APIKEY',
 }
 
 // Other
-global.apikey = ['YOUR APIKEY'] // Get in: https://danzzapi.xyz
-global.apikeyprem = ['YOUR APIKEY'] // Get in: https://danzzapi.xyz
-global.apikeyvip = ['YOUR APIKEY'] // Get in: https://danzzapi.xyz
-global.namabot = ['Danzz Botz']
-global.namaowner = ['Danzz Coding']
-global.owner = ['6289512545999']
-global.premium = ['6289512545999']
-global.packname = '© Powered By'
+global.apikey = ['927b0k3hp7o2'] // Get in: https://danzzapi.xyz
+global.apikeyprem = ['927b0k3hp7o2'] // Get in: https://danzzapi.xyz
+global.apikeyvip = ['927b0k3hp7o2'] // Get in: https://danzzapi.xyz
+global.namabot = ['Kiranxy BOTZ']
+global.namaowner = ['Imam Habib Modz']
+global.owner = ['6282160795453']
+global.premium = ['6282160795453']
+global.packname = '© Powered By Imam Habib Modz 2022'
 global.author = 'https://danzzapi.xyz'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.prefix = ['']
 global.symbol1 = '•'
 global.symbol2 = '>'
-global.wm = '© Danzz Coding'
+global.wm = '© Imam Habib Modz'
 global.mess = {
     success: 'Success ✓',
     admin: 'Fitur Khusus Admin Group!',
